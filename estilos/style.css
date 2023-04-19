@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+/* Paletas de Cores
+    Verde: #49a09d
+    Lilas: #5f2c82
+*/
+
+*{
+    
+}
+body{
+    background-color: black;
+}
+
+section > div#formulário{
+    background-color: white;
+}
